@@ -4,7 +4,7 @@
 # Red Cup Flip Board
 This alcohol game is also called batavia downs flip cup , tip cup, canoe, taps, flippy cup or tippy cup
 
-<img src="./assets/flip/E.png" width="150"> <img src="./assets/flip/E.png" width="150">  <img src="./assets/flip/G.png" width="150"> 
+<img src="./assets/flip/E.png" width="150"> <img src="./assets/flip/F.png" width="150">  <img src="./assets/flip/G.png" width="150"> 
 
 ## How to play ? => https://www.youtube.com/shorts/j_pi8T_ZPZo
 1. The game takes place around a circular table and requires a minimum of 4 players and 4 cups.
