@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/redcup_flipboard.iml" filepath="$PROJECT_DIR$/redcup_flipboard.iml" />
+      <module fileurl="file://$PROJECT_DIR$/android/redcup_flipboard_android.iml" filepath="$PROJECT_DIR$/android/redcup_flipboard_android.iml" />
+    </modules>
+  </component>
+</project>
