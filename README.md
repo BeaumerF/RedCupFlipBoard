@@ -12,6 +12,5 @@ This alcohol game is also called batavia downs flip cup , tip cup, canoe, taps, 
 3. After each successful flip, the drink at the middle of the table is going in the opposite way of the player who flipped the cup.
 4. If the drink go out of the square board, the closer player drink it !
 
-
-
+<sub>*Deprecated repository from 2021*</sub>
 
